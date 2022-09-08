@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppPhotosReact/static/css/main.964fdded.css",
+    "main.js": "/AppPhotosReact/static/js/main.2c9f1502.js",
+    "static/js/787.eb6b098b.chunk.js": "/AppPhotosReact/static/js/787.eb6b098b.chunk.js",
+    "index.html": "/AppPhotosReact/index.html",
+    "main.964fdded.css.map": "/AppPhotosReact/static/css/main.964fdded.css.map",
+    "main.2c9f1502.js.map": "/AppPhotosReact/static/js/main.2c9f1502.js.map",
+    "787.eb6b098b.chunk.js.map": "/AppPhotosReact/static/js/787.eb6b098b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.2c9f1502.js"
+  ]
+}
